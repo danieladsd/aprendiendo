@@ -7,6 +7,8 @@ algo
 mas
 para comprobar el git diff HEAD
 
-esto se ve verde?
+cosas nuevas
+en estas
+lineas
 
 chau
