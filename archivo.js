@@ -12,3 +12,8 @@ en estas
 lineas
 
 chau
+
+
+https://elbauldelprogramador.com/mini-tutorial-y-chuleta-de-comandos-git/
+https://github.com/susannalles/MinimalEditions/wiki/Lista-Comandos-Git
+https://gist.github.com/dasdo/9ff71c5c0efa037441b6
